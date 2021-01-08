@@ -16,8 +16,6 @@ h11==0.12.0
 hyperlink==20.0.1
 idna==2.10
 incremental==17.5.0
-ipython==7.19.0
-ipython-genutils==0.2.0
 jedi==0.18.0
 lxml==4.6.2
 parso==0.8.1
